@@ -1,0 +1,4 @@
+- git:
+    local-name: wstool_update_test
+    uri: https://github.com/a-price/wstool_update_test.git
+    version: master
